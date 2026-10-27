@@ -1,5 +1,5 @@
 ---
-title: "ashwani Up a Local C Environment"
+title: "Setting Up a Local C Environment"
 description: "What you actually need to write and run C on your own machine, and how the setup differs by OS."
 tags: ["getting-started", "setup", "compiler", "ide"]
 difficulty: "beginner"
